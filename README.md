@@ -9,7 +9,7 @@ It is a free, account-free browser game with four game modes and themed content 
 - **Play it locally:** see [Getting started](#getting-started).
 - **Live demo:** [omniquiz-nine.vercel.app](https://omniquiz-nine.vercel.app), a deployment of the `main` branch.
 - **Deployment:** the repository is configured for Cloudflare Workers (`npm run deploy`). See [Current status](#current-status).
-- **Repository owner:** [@WhiteBlindness](https://github.com/WhiteBlindness).
+- **Repository owner:** [@DoArtMonteiro](https://github.com/DoArtMonteiro).
 
 ![OMNIQUIZ landing page on desktop](docs/screenshots/landing-desktop.jpg)
 
